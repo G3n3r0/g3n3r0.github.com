@@ -11,9 +11,10 @@ header h1 {
     display: inline;
 }
 body {
-    background-image: 
+    color: white;
 }
 header {
+    font-family: "Black Ops One";
     background-color: skyblue;
     background-image: url("../Graphics/platformerGrassSquare.png");
     background-repeat: repeat-x;
